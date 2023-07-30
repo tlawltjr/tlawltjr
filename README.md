@@ -14,7 +14,7 @@
 
 #### 📧E-mail tlawltjr23@gmail.com
 
-#### 🗂️Portfolio https://jisayportfolio.netlify.app/
+#### 🗂️Portfolio https://jisayportfolio.netlify.app
 
 ![tlawltjr's github stats](https://github-readme-stats.vercel.app/api?username=tlawltjr&show_icons=true)
 
