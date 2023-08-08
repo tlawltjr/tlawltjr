@@ -10,7 +10,7 @@
 ![Badge](https://img.shields.io/badge/JSP-123123?style=flat&logo=jsp&logoColor=white)
 ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![Badge](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white) ![Badge](https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white) ![Badge](https://img.shields.io/badge/json-E34F26?style=flat&logo=json)
 
-#### 백앤드 개발자가 되고 싶은 심지석입니다.
+#### 신입 백앤드 개발자 심지석입니다.
 맡은 임무의 책임감을 갖고 최선을 다하며
 최신 트렌드를 놓치지 않는 개발자가 되겠습니다!
 
