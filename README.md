@@ -17,8 +17,6 @@
 
 #### 🗂️Portfolio https://jisayportfolio.netlify.app
 
-#### 🌱Algorithm Test https://solved.ac/profile/wltjr23
-
 #### 💬blog : https://jisaydeveloper.tistory.com/
 
 ![tlawltjr's github stats](https://github-readme-stats.vercel.app/api?username=tlawltjr&show_icons=true)
