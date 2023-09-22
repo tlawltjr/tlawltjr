@@ -13,9 +13,9 @@
 #### 신입 백앤드 개발자 심지석입니다.
 항상 배우는 자세로 겸손히 임하겠습니다.
 
-#### 📧E-mail tlawltjr23@gmail.com
+#### 📧E-mail : tlawltjr23@gmail.com
 
-#### 🗂️Portfolio https://jisayportfolio.netlify.app
+#### 🗂️Portfolio : https://jisayportfolio.netlify.app
 
 #### 💬blog : https://jisaydeveloper.tistory.com/
 
